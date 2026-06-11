@@ -12,7 +12,10 @@ Inspired by: https://x.com/mntruell/status/2062955210897801520
 - `improvement-loop/` — recurring improvement tracker
 
 ## Quickstart
-Open `prototype/agent-steering-surface.html` in a browser.
+Open `prototype/agent-steering-surface.html` in a browser. Use `prototype/First Real Trial Packet.md` during the next real multimodal-agent workflow to capture source-backed input modes, output trace, reviewer notes, and the decision gate.
+
+## Latest improvement
+- 2026-06-11: Added a fillable First Real Trial Packet. Packet is ready; no validation proof was invented.
 
 ## Decision standard
-This repo is a prepared artifact kit, not proof that the workflow is validated. Promote only after a real trial packet is filled.
+This repo is a prepared artifact kit, not proof that the workflow is validated. Promote only after the trial packet is filled with real evidence and the decision is source-backed.

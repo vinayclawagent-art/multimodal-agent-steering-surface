@@ -7,7 +7,7 @@ github_repo: "https://github.com/vinayclawagent-art/multimodal-agent-steering-su
 score: 9
 artifact_tracks: [prototype, infographic, skill]
 improvement_cadence: nightly
-last_improved: 2026-06-08
+last_improved: 2026-06-11
 tags: [artifact-package, x-intel, agent-ux, multimodal-ui]
 ---
 # Artifact Package: Multimodal Agent Steering Surface
@@ -23,6 +23,7 @@ Chat-only agent products miss the way humans actually steer collaborators: point
 
 ## Generated artifacts
 - Prototype: [[../../Prototypes/multimodal-agent-steering-surface/agent-steering-surface.html|agent-steering-surface.html]]
+- Trial packet: [[../../Prototypes/multimodal-agent-steering-surface/First Real Trial Packet|First Real Trial Packet]]
 - Infographic: [[../../Infographics/multimodal-agent-steering-surface/Multimodal Agent Steering Surface Workflow Map|Multimodal Agent Steering Surface Workflow Map]]
 - Skill draft: [[../../Skills/multimodal-agent-steering/SKILL|multimodal-agent-steering]]
 - Improvement loop: [[../../Improvement-Loops/Multimodal Agent Steering Surface Loop|Multimodal Agent Steering Surface Loop]]
@@ -41,9 +42,11 @@ https://github.com/vinayclawagent-art/multimodal-agent-steering-surface
 
 ## Improvement backlog
 - [ ] Use the prototype in one real VinClawLabs workflow.
-- [ ] Fill the trial packet with actual evidence; do not invent validation.
+- [x] Add a fillable First Real Trial Packet for the next real workflow.
+- [ ] Fill the First Real Trial Packet with actual evidence; do not invent validation.
 - [ ] Decide promote / pilot-only / iterate / hold.
 - [ ] If repeated, promote or merge the skill draft.
 
 ## Change log
+- 2026-06-11: Added [[../../Prototypes/multimodal-agent-steering-surface/First Real Trial Packet|First Real Trial Packet]] so the next multimodal-agent workflow has source-backed fields for operator input modes, agent interpretation, output trace, and a decision gate.
 - 2026-06-08: Created package, prototype, infographic, skill draft, improvement loop, and GitHub repo mirror.
